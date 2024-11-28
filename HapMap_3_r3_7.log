@@ -1,0 +1,16 @@
+PLINK v1.9.0-b.7.7 64-bit (22 Oct 2024)
+Options in effect:
+  --bfile HapMap_3_r3_6
+  --extract snp_1_22.txt
+  --make-bed
+  --out HapMap_3_r3_7
+
+Hostname: LAPTOP-63NTV4V5
+Working directory: K:\plink\file
+Start time: Thu Nov 28 22:18:12 2024
+
+Random number seed: 1732803492
+16108 MB RAM detected; reserving 8054 MB for main workspace.
+Error: Failed to open HapMap_3_r3_6.bed.
+
+End time: Thu Nov 28 22:18:12 2024
