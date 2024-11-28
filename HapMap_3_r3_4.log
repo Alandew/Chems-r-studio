@@ -1,0 +1,30 @@
+PLINK v1.9.0-b.7.7 64-bit (22 Oct 2024)
+Options in effect:
+  --bfile HapMap_3_r3_3
+  --geno 0.02
+  --make-bed
+  --out HapMap_3_r3_4
+
+Hostname: LAPTOP-63NTV4V5
+Working directory: K:\plink\file
+Start time: Thu Nov 28 22:15:22 2024
+
+Random number seed: 1732803322
+16108 MB RAM detected; reserving 8054 MB for main workspace.
+1457897 variants loaded from .bim file.
+165 people (80 males, 85 females) loaded from .fam.
+112 phenotype values loaded from .fam.
+Using 1 thread (no multithreaded calculations invoked).
+Before main variant filters, 112 founders and 53 nonfounders present.
+Calculating allele frequencies... done.
+Warning: 225 het. haploid genotypes present (see HapMap_3_r3_4.hh ); many
+commands treat these as missing.
+Total genotyping rate is 0.997378.
+27454 variants removed due to missing genotype data (--geno).
+1430443 variants and 165 people pass filters and QC.
+Among remaining phenotypes, 56 are cases and 56 are controls.  (53 phenotypes
+are missing.)
+--make-bed to HapMap_3_r3_4.bed + HapMap_3_r3_4.bim + HapMap_3_r3_4.fam ...
+done.
+
+End time: Thu Nov 28 22:15:23 2024
